@@ -4,7 +4,7 @@
 //
 //  Created by 123 on 15/10/28.
 //  Copyright © 2015年 haibin. All rights reserved.
-//
+//  github 用的还是 不够熟悉啊
 
 #import "AppDelegate.h"
 
